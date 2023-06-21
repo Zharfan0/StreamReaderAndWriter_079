@@ -1,5 +1,6 @@
 #include <fstream>
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
@@ -23,4 +24,5 @@ int main() {
 		//menulis dan memasukan nilai dari 'baris' ke dalam file
 		outfile << baris << endl;
 	}
+
 }

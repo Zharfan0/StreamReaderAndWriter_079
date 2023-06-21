@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFileWithPath", "IoFileWit
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manualExecption", "manualExecption\manualExecption.vcxproj", "{ED074943-413A-4EB6-9CE7-CB2B23383E90}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExecptionStandard", "ExecptionStandard\ExecptionStandard.vcxproj", "{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{ED074943-413A-4EB6-9CE7-CB2B23383E90}.Release|x64.Build.0 = Release|x64
 		{ED074943-413A-4EB6-9CE7-CB2B23383E90}.Release|x86.ActiveCfg = Release|Win32
 		{ED074943-413A-4EB6-9CE7-CB2B23383E90}.Release|x86.Build.0 = Release|Win32
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Debug|x64.ActiveCfg = Debug|x64
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Debug|x64.Build.0 = Debug|x64
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Debug|x86.ActiveCfg = Debug|Win32
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Debug|x86.Build.0 = Debug|Win32
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Release|x64.ActiveCfg = Release|x64
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Release|x64.Build.0 = Release|x64
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Release|x86.ActiveCfg = Release|Win32
+		{84ABC9D6-FD8C-4BFC-B6AF-B72D18902B27}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
